@@ -2,7 +2,7 @@
   "name": "@bushizhanghan/dsh-workmate",
   "displayName": "DSH Workmate",
   "description": "把 WorkBuddy 国内版与国际版的免费/付费模型接进 DeepSeek Harness，无需桌面端。WorkBuddy's free and paid models for DeepSeek Harness, international and domestic, no desktop app required.",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "author": "bushizhanghan",
   "contributors": [
     {
